@@ -1,0 +1,42 @@
+$secondary_Color: #70c1b3;
+$other_Color: #f3ffbd;
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+header {
+  background: $secondary_Color; }
+
+.navbar-header{
+  background: $other_Color; }
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.imgRotate {  
+    transform: rotate(-90deg); /* Equal to rotateZ(45deg) */    
+}

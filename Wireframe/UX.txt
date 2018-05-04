@@ -1,0 +1,23 @@
+
+UX Proyecto
+
+1. En la página principal y contactenos en la parte superior derecha se ubica un icono de ayuda al presionarse se le presentará al usuario
+un Modal de  Ayuda con los pasos a seguir según las operacion de cada página por ejemplo: en la página principal se explicará como realizar los distintos 
+tipos de búsqueda.
+
+2. Acceso a página de Facebook: En la esquina inferior derecha se ubica un icono de facebook el cual servirá como enlace para redirigir a una página 
+de facebook real sobre el sitio web de trabajos. 
+
+3. Flecha hacia arriba: En la esquina inferior derecha junto al icono de facebook se ubica una flecha la cual tendrá la funcionalidad de redirigir al usuario 
+al inicio de la página en caso de que el usuario se encuentra en la parte inferior, esto con el fin de simplificar la navegabilidad en la página, así como crear una 
+apariencia más rápida y dinámica de los pasos que realice el usuario en la página.
+
+4. Busqueda por coincidencidencias: Se realizarán busquedas por coincidencias de palabras tambíen con el fin de mejorar los tiempos de búsqueda.
+
+5.Menú estatico al bajar: El menú principal será estático esta para que el usuario al realizar scroll en la página no pierda de vista el menú y asi le sea fácil 
+desde cualquier ubicación de la página.
+
+6. Anuncios cambiantes: En el header usando el estilo carousel se encontrarán distintos anuncios de publicidad los cuáles estarán en movimiento y cambiándose para 
+realizar la página más atractiva al usuario y no tanto con imagines estáticas.
+
+7. Trabajos Recientes: En el lado derecho se ubicarán al menos los tres trabajos más recientes de cualquier área esto en caso de que le sea atractivo a todo tipo de público.
